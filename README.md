@@ -1,2 +1,2 @@
-DB-JS
+Database and JavaScript
 =====
